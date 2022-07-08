@@ -17,7 +17,7 @@ git switch your-team-name
 ```
 note that all your team members will be only pushing to this branch make sure you don't push to any aother branch
 <br />
-opening your code on the editor and start making your changes as per the document 
+open your code on the editor and start making your changes as per the document 
 <br />
 create a folder for each challenge that you do
 <br />
